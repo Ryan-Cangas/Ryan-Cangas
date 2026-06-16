@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi! I'm Ryan Cangas
 
-<!--
-**Ryan-Cangas/Ryan-Cangas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Graduate with a deep appreciation for cloud infrastructure, automation, and security. The Cloud is my virtual playground for building and testing resilient, secure systems. 
 
-Here are some ideas to get you started:
+### My Technical Stack & Ecosystem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Virtualization & IaaS:** Proxmox VE, Apache CloudStack, Core Linux Systems (RHEL/Ubuntu)
+*   **Observability & SIEM:** OpenObserve, Prometheus, Grafana, Splunk SIEM
+*   **Containers & Cloud:** Docker, KeyCloak IAM, AWS Academic Pathway
+
+---
+
+### What I'm Up To Right Now
+*   **At Work:** Researching, deploying, and optimizing production-grade telemetry pipelines using OpenObserve. Working on ProxoxVE and Apache Cloudstack to configure networks and manage VM's
+*   **Learning In Public:** Advancing my skills through advanced AWS pathways covering Cloud Architecture, Security, and Cloud Operations.
+
+> "Building a modern telemetry pipeline using OpenObserve, Prometheus, and Grafana is one thing, but truly understanding the data, logs, and system visibility is another."
+
+📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ryan-cangas)
