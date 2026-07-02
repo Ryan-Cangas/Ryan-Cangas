@@ -5,7 +5,7 @@ Software Engineering Graduate with a deep appreciation for cloud infrastructure,
 ### My Technical Stack & Ecosystem
 
 *   **Virtualization & IaaS:** Proxmox VE, Apache CloudStack, Core Linux Systems (RHEL/Ubuntu)
-*   **Observability & SIEM:** OpenObserve, Prometheus, Grafana, Splunk SIEM
+*   **Observability & SIEM:** OpenObserve, Prometheus, Grafana, Splunk SIEM, Wazuh
 *   **Containers & Cloud:** Docker, KeyCloak IAM, AWS Academic Pathway
 
 ---
