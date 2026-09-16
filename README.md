@@ -4,16 +4,19 @@ Software Engineering Graduate with a deep appreciation for cloud infrastructure,
 
 ### My Technical Stack & Ecosystem
 
-*   **Virtualization & IaaS:** Proxmox VE, Apache CloudStack, Core Linux Systems (RHEL/Ubuntu)
-*   **Observability & SIEM:** OpenObserve, Prometheus, Grafana, Splunk SIEM, Wazuh
-*   **Containers & Cloud:** Docker, KeyCloak IAM, AWS Academic Pathway
+*   **Virtualization & IaaS:** Proxmox VE, Apache CloudStack, Core Linux Systems (RHEL, Ubuntu, Debian)
+*   **Networking & Security:** OPNsense, FortiGate, Tailscale (SDN provisioning), AdGuard Home (LXC)
+*   **Observability & SIEM:** Wazuh (Fully integrated multi-agent setup), Prometheus, Grafana, Splunk SIEM
+*   **Containers & Cloud:** Docker, Keycloak IAM, AWS Certified Cloud Architect Level
 
 ---
 
 ### What I'm Up To Right Now
-*   **At Work:** Researching, deploying, and optimizing production-grade telemetry pipelines using OpenObserve. Working on ProxoxVE and Apache Cloudstack to configure networks and manage VM's
-*   **Learning In Public:** Advancing my skills through advanced AWS pathways covering Cloud Architecture, Security, and Cloud Operations.
+*   **At Work & In the Lab:** Architecting and managing Proxmox VE environments, deploying virtual instances/services, and provisioning secure software-defined networks (SDNs) using Tailscale.
+*   **Security & Defense-in-Depth:** Running a fully integrated Wazuh SIEM ecosystem with multi-agent monitoring (especially across Proxmox nodes), alongside OPNsense and FortiGate firewalls, complemented by network-wide privacy via AdGuard running in a Proxmox LXC container.
+*   **Building Custom Tooling:** Developed **OmniCloud**—my custom infrastructure portal showcasing bare-metal telemetry, SDNs, storage partitions, and security audit insights pulled directly via the Wazuh API.
+*   **Learning In Public:** Advancing my architectural expertise at the cloud architect level, focusing on scalable cloud design, security hardening, and resilient operations.
 
-> "Building a modern telemetry pipeline using OpenObserve, Prometheus, and Grafana is one thing, but truly understanding the data, logs, and system visibility is another."
+> "Building automated telemetry and secure software-defined networks is one thing, but truly engineering complete visibility, hardened perimeters, and unified control planes is where infrastructure becomes art."
 
 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ryan-cangas)
