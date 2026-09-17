@@ -1,22 +1,37 @@
-# Hi! I'm Ryan Cangas
+# Ryan Cangas
 
-Software Engineering Graduate with a deep appreciation for cloud infrastructure, automation, and security. The Cloud is my virtual playground for building and testing resilient, secure systems. 
-
-### My Technical Stack & Ecosystem
-
-*   **Virtualization & IaaS:** Proxmox VE, Apache CloudStack, Core Linux Systems (RHEL, Ubuntu, Debian)
-*   **Networking & Security:** OPNsense, FortiGate, Tailscale (SDN provisioning), AdGuard Home (LXC)
-*   **Observability & SIEM:** Wazuh (Fully integrated multi-agent setup), Prometheus, Grafana, Splunk SIEM
-*   **Containers & Cloud:** Docker, Keycloak IAM, AWS Certified Cloud Architect Level
+Cloud DevSecOps & Infrastructure R&D | Software Engineer based in Dubai, UAE.  
+Focused on bare-metal hypervisors, sovereign virtualization, edge perimeter hardening, and automated enterprise AI workflows.
 
 ---
 
-### What I'm Up To Right Now
-*   **At Work & In the Lab:** Architecting and managing Proxmox VE environments, deploying virtual instances/services, and provisioning secure software-defined networks (SDNs) using Tailscale.
-*   **Security & Defense-in-Depth:** Running a fully integrated Wazuh SIEM ecosystem with multi-agent monitoring (especially across Proxmox nodes), alongside OPNsense and FortiGate firewalls, complemented by network-wide privacy via AdGuard running in a Proxmox LXC container.
-*   **Building Custom Tooling:** Developed **OmniCloud**—my custom infrastructure portal showcasing bare-metal telemetry, SDNs, storage partitions, and security audit insights pulled directly via the Wazuh API.
-*   **Learning In Public:** Advancing my architectural expertise at the cloud architect level, focusing on scalable cloud design, security hardening, and resilient operations.
+### What I'm Working On
 
-> "Building automated telemetry and secure software-defined networks is one thing, but truly engineering complete visibility, hardened perimeters, and unified control planes is where infrastructure becomes art."
+- **CloudHost (Cloud DevSecOps & Infrastructure R&D):**
+  - Orchestrating multi-tenant private clouds on **Apache CloudStack** and **Proxmox VE**.
+  - Hardening network boundaries and stateful routing using **Fortinet FortiGate** and **OPNsense** appliances.
+  - Deploying **Wazuh SIEM** telemetry pipelines across virtual clusters for threat detection and compliance logging.
+  - Engineering sovereign AI integrations directly into enterprise CRM systems to automate operational data flows.
+- **Sovereign Infrastructure:** Running automated bare-metal environments, software-defined mesh networking via WireGuard and Tailscale, and containerized self-hosted clusters.
 
-📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ryan-cangas)
+---
+
+### Key Projects
+
+- **OmniCloud:** Custom sovereign control plane and homelab management platform integrating real-time Proxmox VE telemetry, an asynchronous FastAPI backend, and dynamic threat auditing piped from the Wazuh Indexer OpenSearch API.
+- **SureWill:** Cryptographic digital vault and estate management system leveraging Libsodium.js and Shamir's Secret Sharing for trustless credential splitting and recovery.
+
+---
+
+### Tech & Tools
+
+- **Virtualization & Cloud:** Proxmox VE, Apache CloudStack, Docker Compose, Linux (RHEL, Ubuntu, Debian), AWS
+- **Security & Networking:** Fortinet FortiGate, OPNsense, Wazuh SIEM, Tailscale, WireGuard, Fail2Ban
+- **Backend & Development:** Python (FastAPI, Flask), TypeScript, React, Next.js, Bash
+- **Data & Crypto:** OpenSearch, MongoDB, Libsodium.js, REST APIs
+
+---
+
+### Connect
+
+- **LinkedIn:** [linkedin.com/in/ryan-cangas](https://www.linkedin.com/in/ryan-cangas)
