@@ -3,12 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="cloud.gif" alt="Ryan Cangas Live Workflow" width="60%" style="border-radius: 8px;" />
+  <img src="cloud.gif" alt="Ryan Cangas Live Workflow" width="62%" />
 </p>
 
-## 📌 About Me
-
-> _Cloud Infrastructure, DevSecOps & Systems Engineer based in Dubai, UAE — bridging enterprise Windows/Linux administration, multi-cloud virtualization, SIEM/SOAR security operations, and sovereign AI workflow automation._
+## About Me
 
 ```yaml
 # current_focus.yml
@@ -21,13 +19,8 @@ cloudhost_engineering:
   - "SIEM telemetry, threat detection & L1/L2 incident triage (Splunk, Wazuh SIEM)"
   - "Sovereign AI integrations automating enterprise CRM operational data flows"
 sovereign_homelab:
-  [
-    "Bare-Metal Proxmox Cluster",
-    "RHEL / Ubuntu / Debian",
-    "Docker Compose",
-    "Terraform & Ansible",
-    "Grafana / Prometheus / Loki",
-  ]
+  - "Bare-Metal Proxmox Cluster (RHEL, Ubuntu, Debian)"
+  - "Declarative IaC & Observability (Terraform, Ansible, Grafana, Prometheus, Loki)"
 ```
 
 ## Featured Engineering Projects
