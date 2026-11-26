@@ -1,10 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=820&lines=Hi!+I'm+Ryan+Cangas;Cloud+Infrastructure%2C+DevSecOps+%26+Systems+Engineer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="cloud.gif" alt="Ryan Cangas Live Workflow" width="62%" />
-</p>
+<table>
+  <tr>
+    <td width="54%" valign="middle">
+      <img src="cloud.gif" alt="Ryan Cangas Live Workflow" width="100%" />
+    </td>
+    <td width="46%" valign="middle">
+      <sub><code>DUBAI, UAE // CLOUDHOST TECHNOLOGY</code></sub><br />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=E6EDF3&vCenter=true&multiline=true&width=440&height=65&lines=Hi!+I'm+Ryan+Cangas;Cloud+Infrastructure%2C+DevSecOps+%26+Systems" alt="Ryan Cangas - Cloud Infrastructure, DevSecOps & Systems Engineer" />
+      <p>Architecting solutions and Engineering multi-cloud virtualization platforms (Proxmox VE, Azure, CloudStack), Windows/Linux enterprise identity, Zero-Trust mesh networking, SIEM/SOAR detection pipelines, and sovereign AI CRM workflows.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/ryan-cangas">LinkedIn</a> &nbsp;·&nbsp;
+        <a href="mailto:cangasryanandre@gmail.com">Email</a> &nbsp;·&nbsp;
+        <a href="https://github.com/Ryan-Cangas?tab=repositories">Repositories</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
@@ -19,39 +29,44 @@ cloudhost_engineering:
   - "SIEM telemetry, threat detection & L1/L2 incident triage (Splunk, Wazuh SIEM)"
   - "Sovereign AI integrations automating enterprise CRM operational data flows"
 sovereign_homelab:
-  - "Bare-Metal Proxmox Cluster (RHEL, Ubuntu, Debian)"
-  - "Declarative IaC & Observability (Terraform, Ansible, Grafana, Prometheus, Loki)"
+  [
+    "Bare-Metal Proxmox Cluster",
+    "RHEL / Ubuntu / Debian",
+    "Docker Compose",
+    "Terraform & Ansible",
+    "Grafana / Prometheus / Loki",
+  ]
 ```
 
-## Featured Engineering Projects
+## Selected Systems & Infrastructure
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ omnicloud-infra-portal</h3>
-      <p>Sovereign control plane and homelab operations center engineered to orchestrate bare-metal hypervisor telemetry, container orchestration, networking, and security operations.</p>
-      <p><strong>Stack:</strong> <code>TypeScript</code> <code>React</code> <code>FastAPI</code> <code>Proxmox VE</code> <code>Wazuh SIEM</code></p>
-      <a href="https://github.com/Ryan-Cangas/omnicloud-infra-portal">View Repository →</a>
+      <h3>omnicloud-infra-portal</h3>
+      <p>Sovereign control plane and homelab operations center orchestrating bare-metal hypervisor telemetry, container workloads, and Wazuh SIEM security auditing.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>FastAPI</code> <code>Proxmox VE</code></p>
+      <a href="https://github.com/Ryan-Cangas/omnicloud-infra-portal">Explore Control Plane →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐳 docktor</h3>
-      <p>TypeScript-powered container diagnostics, health inspection, and Docker operational management utility built for rapid troubleshooting across self-hosted clusters.</p>
-      <p><strong>Stack:</strong> <code>TypeScript</code> <code>Docker</code> <code>Linux</code> <code>REST APIs</code></p>
-      <a href="https://github.com/Ryan-Cangas/docktor">View Repository →</a>
+      <h3>docktor</h3>
+      <p>TypeScript-powered container diagnostics, health inspection, and Docker operational utility built for rapid troubleshooting across self-hosted clusters.</p>
+      <p><code>TypeScript</code> <code>Docker</code> <code>Linux</code> <code>REST APIs</code></p>
+      <a href="https://github.com/Ryan-Cangas/docktor">Inspect Utility →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 devsecops-runbooks</h3>
-      <p>Production-ready DevSecOps runbooks, SIEM/SOAR security monitoring guides, incident triage SOPs, and infrastructure playbooks for homelab and enterprise environments.</p>
-      <p><strong>Stack:</strong> <code>Splunk</code> <code>Wazuh SIEM</code> <code>Bash</code> <code>PowerShell</code> <code>Security Ops</code></p>
-      <a href="https://github.com/Ryan-Cangas/devsecops-runbooks">View Repository →</a>
+      <h3>devsecops-runbooks</h3>
+      <p>Production-ready DevSecOps runbooks, SIEM monitoring guides, and incident response playbooks for enterprise and sovereign environments.</p>
+      <p><code>Wazuh SIEM</code> <code>Splunk</code> <code>Hardening</code> <code>SOPs</code></p>
+      <a href="https://github.com/Ryan-Cangas/devsecops-runbooks">Browse Runbooks →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ proxmox-terraform-ansible-automation</h3>
-      <p>Automated homelab infrastructure provisioning on Proxmox VE using Terraform for lightweight LXC root templates and dynamic DHCP, paired with Ansible for Docker and network service orchestration.</p>
-      <p><strong>Stack:</strong> <code>Terraform (HCL)</code> <code>Ansible</code> <code>Proxmox VE</code> <code>Docker</code> <code>Linux</code></p>
-      <a href="https://github.com/Ryan-Cangas/proxmox-terraform-ansible-automation">View Repository →</a>
+      <h3>proxmox-terraform-ansible-automation</h3>
+      <p>Declarative LXC provisioning and configuration management on Proxmox VE using Terraform root templates, dynamic DHCP, and Ansible playbooks.</p>
+      <p><code>Terraform</code> <code>Ansible</code> <code>Proxmox VE</code> <code>Docker</code></p>
+      <a href="https://github.com/Ryan-Cangas/proxmox-terraform-ansible-automation">View Infrastructure Code →</a>
     </td>
   </tr>
 </table>
@@ -254,14 +269,3 @@ sovereign_homelab:
     </td>
   </tr>
 </table>
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ryan-cangas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:cangasryanandre@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
